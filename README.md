@@ -6,7 +6,7 @@ This is a web based application developed for healthcare related based website i
 ### This web based healthcare application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - https://blue-grass-0386d9d00.4.azurestaticapps.net
+**Project Link** - https://blue-grass-0386d9d00.4.azurestaticapps.net **Project Demo Video Link** - https://drive.google.com/file/d/1asPpcIxkX_F2R-Ovbgb7invjF-GbN4FQ/view?usp=drivesdk
 
 
 ## Features and Functionalities 😃
