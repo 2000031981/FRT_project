@@ -1,4 +1,4 @@
-![image](https://github.com/2000031981/FRT_project/assets/113927478/f404ca81-904d-48fd-a6c5-f3a0d191afb1)![image](https://github.com/2000031981/FRT_project/assets/113927478/b396a5e3-e39d-46b6-9f7a-52190f26f2b6)
+
 # ✨Medico ✨
 
 This is a web based application developed for healthcare related based website in india
